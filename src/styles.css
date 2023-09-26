@@ -1,0 +1,13 @@
+table .heading {
+  background-color: #293131;
+  color: white;
+  padding: 10px;
+  border-collapse: collapse;
+}
+table {
+  width: 800px;
+  height: auto;
+}
+tr {
+  border: 1px solid black;
+}
